@@ -1,6 +1,6 @@
 cask "monivol" do
-  version "1.1.8"
-  sha256 "8169681a1ffbdd37ded90b8a4078ff70772e55963c3aa2c30a9936323f203ca5"
+  version "1.1.9"
+  sha256 "1f827ffcebd9eb6b562758bad50277633e5968d6b726116513b3d9293e22002b"
 
   url "https://github.com/Geliv/MoniVol/releases/download/v#{version}/MoniVol.dmg"
   name "MoniVol"
